@@ -1,4 +1,4 @@
-﻿namespace MammothHouse
+﻿namespace MammothHouse.Models
 {
     public class AboutYourStay : IList_Items
     {

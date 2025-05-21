@@ -2,6 +2,7 @@ using System;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using Microsoft.Extensions.Configuration;
+using MammothHouse.Models;
 
 namespace MammothHouse
 {
@@ -36,11 +37,8 @@ namespace MammothHouse
 
             app.Run();
 
-            var config = new ConfigurationBuilder()
-    .AddJsonFile("appsettings.json")
-    .Build();
+            IHttpClientBuilder httpClientBuilder = builder.Services.AddHttpClient<WeatherApiKey>();
 
-            string apiKey = config["WeatherApiKey"];
 
 
         }

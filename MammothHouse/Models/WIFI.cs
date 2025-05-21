@@ -1,6 +1,6 @@
 ﻿using System.Security.Cryptography.X509Certificates;
 
-namespace MammothHouse
+namespace MammothHouse.Models
 {
     public class WIFI : IList_Items
     {

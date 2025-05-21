@@ -1,4 +1,4 @@
-﻿namespace MammothHouse
+﻿namespace MammothHouse.Models
 {
     public interface IList_Items
     {
