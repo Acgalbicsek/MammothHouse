@@ -4,13 +4,13 @@
     {
         public string Title { get; set; } = "About Your Stay";
         public string Description { get; set; } 
-        public string HouseRules { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public string AboutTheHouse { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public string WIFIInformation { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public string LocalInformation { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public string NorthernLightsInformation { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public string ContactInformation { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        string IList_Items.AboutYourStay { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public string HouseRules { get ; set ; }
+        public string AboutTheHouse { get; set ; }
+        public string WIFIInformation { get ; set ; }
+        public string LocalInformation { get ; set ; }
+        public string NorthernLightsInformation { get; set ; }
+        public string ContactInformation { get ; set ; }
+        string IList_Items.AboutYourStay { get ; set ; }
 
         public void BacktoMenu()
         {
