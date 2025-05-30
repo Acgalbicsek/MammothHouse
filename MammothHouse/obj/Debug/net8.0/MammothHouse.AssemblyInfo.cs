@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MammothHouse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3716fdb6ebe193b132c7787c75eb0ce30b71e96")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3ba334c8384fc22519922b3e01bdbd95a3c327a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MammothHouse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MammothHouse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

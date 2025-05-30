@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using Microsoft.Extensions.Configuration;
 using MammothHouse.Models;
 
+
 namespace MammothHouse
 {
     public class Program
@@ -29,6 +30,8 @@ namespace MammothHouse
             }
 
             app.UseHttpsRedirection();
+
+            app.UseStaticFiles();
 
             app.UseAuthorization();
 
