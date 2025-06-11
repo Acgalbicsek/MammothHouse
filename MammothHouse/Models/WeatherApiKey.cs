@@ -10,6 +10,8 @@
             var url = $"https://api.weatherapi.com/v1/current.json?key={_apiKey}&q={city}";
             var response = await _httpClient.GetAsync(url);
             return await response.Content.ReadAsStringAsync();
+
+
         }
     }
 }

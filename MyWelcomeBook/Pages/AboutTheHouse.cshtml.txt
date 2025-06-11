@@ -1,0 +1,23 @@
+@page
+<h1>About the House</h1>
+<p>Welcome! Here’s what you need to know:</p>
+<ul>
+     <h2> About The House</h2>
+        <p> The noise you hear when you turn on the shower, flush the toilet, or run water from the sink is our water pump.  It should not be running when
+                the appliances that use water are off.  If you hear it running when the sinks and the shower are off, and it runs for more than 5 minutes, please contact Theodora and Shelton!</p>
+
+            <ul>
+            <li>If the indoor garbage can fills up during your stay, please put it in the silver trash can outside.  Do not put trash on the porch, it will attract animals.</li>
+             <li>If you are chilly, please feel free to turn up the heat on the Toyo stove in the living room.  Putting the ceiling fans on low help move the heat around the house.
+                    There is also a fan/space heater in the bedroom and in the bathroom for you to use.</li>
+             <li>There is a washer and dryer that you are more than welcome to use!  We ask that you use the QUICK CYCLE on the washing machine.  It helps conserve the water we haul</li>
+             <li>There is a fire extinguisher under the sink.  If the smoke alarm goes off the fire department will respond.  So please contact Theodora and Shelton so they can cancel the fire department.</li>
+             <li>There is a small first aid kit in the kitchen drawer.</li>
+             <li>If the power goes out, please contact Theodora and Shelton.  There are flash lights in the kitchen drawer, and some emergency water in the laundry room.  If it is out for an extended period of time, someone will come to the house to light a fire for you.</li>
+             <li>Theodora: (928)600-2889</li>
+             <li>Shelton: (928)607-9263</li>
+             <li>Amy: (907)987-9030</li>   
+</ul>
+<a asp-page="/Index">Back to Main Menu</a>
+
+
